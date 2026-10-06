@@ -62,7 +62,7 @@ git push origin main
  
 ## Recursos
  
-- [ttps://docs.github.com/]
+- [Documentació oficial de GitHub](https://docs.github.com/en)
  
 ## Imatge
  
