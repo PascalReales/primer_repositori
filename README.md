@@ -1,2 +1,4 @@
 # primer_repositori
-Nou repositori
+Projecte 2
+Pascal Reales
+SMXB 2n
